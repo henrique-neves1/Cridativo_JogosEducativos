@@ -35,7 +35,7 @@ RectTransform:
   m_GameObject: {fileID: 1469429338415563884}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -104,6 +104,7 @@ MonoBehaviour:
   - {fileID: 1081045235775356859, guid: a189b6ad277ac62409b496b16d0e88b7, type: 3}
   - {fileID: 7390372672417035886, guid: 02f810232ebd0c640a2639c786d97f03, type: 3}
   - {fileID: 2314357413406407328, guid: 153d07059b8f7664792f3d7adab8323b, type: 3}
+  mazeGenerator: {fileID: 0}
 --- !u!50 &3541928307198061053
 Rigidbody2D:
   serializedVersion: 5
